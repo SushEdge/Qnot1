@@ -4,7 +4,7 @@
 
 All-in-One (AIO) circuit for quadcopter. STM32F405 is the main controller for FC and EFM8BB21 is the main controller for ESC. Screw hole dimension is 26x26 mm that compatible for almost tiny drone frame. 
 
-![3d_top](assets/demo/BoardDemo.png)
+![3d_top](BoardDemo.png)
 
 Everything about this board: Schematic, PCB gerber and BOM are free to distribute under open-source license for users.
 
@@ -47,47 +47,47 @@ This board use jumper to select 5V power source and to enable 3V3 power supply.
 
 #### PCB F.Cu
 
-![3d_top](assets/demo/PCB_F.Cu.png)
+![3d_top](PCB_F.Cu.png)
 
 #### PCB In1.Cu
 
-![3d_top](assets/demo/PCB_In1.Cu.png)
+![3d_top](PCB_In1.Cu.png)
 
 #### PCB In2.Cu
 
-![3d_top](assets/demo/PCB_In2.Cu.png)
+![3d_top](PCB_In2.Cu.png)
 
 #### PCB In3.Cu
 
-![3d_top](assets/demo/PCB_In3.Cu.png)
+![3d_top](PCB_In3.Cu.png)
 
 #### PCB In4.Cu
 
-![3d_top](assets/demo/PCB_In4.Cu.png)
+![3d_top](PCB_In4.Cu.png)
 
 #### PCB In5.Cu
 
-![3d_top](assets/demo/PCB_In5.Cu.png)
+![3d_top](PCB_In5.Cu.png)
 
 #### PCB In6.Cu
 
-![3d_top](assets/demo/PCB_In6.Cu.png)
+![3d_top](PCB_In6.Cu.png)
 
 #### PCB B.Cu
 
-![3d_top](assets/demo/PCB_B.Cu.png)
+![3d_top](PCB_B.Cu.png)
 
 #### Dimension
 
-![3d_top](assets/demo/dimension.png)
+![3d_top](dimension.png)
 
 #### 3D Top
 
-![3d_top](assets/demo/3d_top.png)
+![3d_top](3d_top.png)
 
 #### 3D Bot
 
-![3d_bot](assets/demo/3d_bot.png)
+![3d_bot](3d_bot.png)
 
 ### 5. Bill of Materials (BOM)
 
